@@ -4,7 +4,7 @@ import numpy
 from numpy import *
 import scipy.spatial.distance as sp
 
-
+#
 mtrx = zeros((131262, 800)) #userXmovies
 testmtrx = zeros((131262, 200))
 
